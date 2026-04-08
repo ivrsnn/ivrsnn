@@ -1,6 +1,6 @@
 <div align="center">
 <!-- GLITCH EFFECT HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E+Welcome+to+my+Github;%3E+FrontEnd+Dev;%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=+Welcome+to+my+Github;+FrontEnd+Dev;" alt="Typing SVG" />
 <br/>
 <a href="https://github.com/ivrsnn">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFFF"/>
