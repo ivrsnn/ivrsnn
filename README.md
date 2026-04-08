@@ -1,4 +1,4 @@
-<div align="center"> <!-- HEADER SECTION --> <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=200&section=header&text=IVERSON&fontSize=80&fontAlignY=40&animation=twinkling&desc=UI/UX%20%7C%20Front-End%20Developer&descSize=20&descAlignY=60" alt="Header" />
+<div align="center"> <!-- HEADER SECTION --> <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=100&section=header&text=IVERSON&fontSize=80&fontAlignY=40&animation=twinkling&desc=UI/UX%20%7C%20Front-End%20Developer&descSize=20&descAlignY=60" alt="Header" />
 <!-- GLITCH EFFECT TYPING --> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE;" alt="Typing SVG" />   
 
 <img src="https://komarev.com/ghpvc/?username=ivrsnn&style=for-the-badge&color=00FFFF&label=VISITORS" /> </div>   
