@@ -1,38 +1,7 @@
 <div align="center"> <!-- HEADER SECTION --> <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=190&section=header&text=IVERSON&fontSize=80&fontAlignY=40&animation=twinkling&desc=UI/UX%20%7C%20Front-End%20Developer&descSize=20&descAlignY=60" alt="Header" />
 <!-- GLITCH EFFECT TYPING -->
 <div style="font-family:'Orbitron',monospace;font-weight:900;font-size:32px;text-align:center;background:#0a0f1e;padding:20px;" id="typing"></div>
-<script>
-(async function(){
-    const lines=["WELCOME TO MY GITHUB","BUILDING THE FUTURE WITH CODE"];
-    const colors=["#ff0040","#ff8000","#ffff00","#80ff00","#00ff80","#00ffff","#0080ff","#8000ff","#ff00ff"];
-    const el=document.getElementById("typing");
-    async function type(line,index){
-        let i=0;
-        while(i<=line.length){
-            let html='<div style="margin:10px 0">';
-            for(let j=0;j<i;j++){
-                const c=line[j];
-                const col=colors[j%colors.length];
-                html+=`<span style="display:inline-block;color:${col};text-shadow:0 0 8px ${col}">${c===' '?'&nbsp;':c}</span>`;
-            }
-            html+='</div>';
-            if(index===0) el.innerHTML=html;
-            else el.innerHTML=el.innerHTML.split('</div>')[0]+html.split('<div')[1];
-            await new Promise(r=>setTimeout(r,70));
-            i++;
-        }
-    }
-    while(true){
-        await type(lines[0],0);
-        await new Promise(r=>setTimeout(r,400));
-        await type(lines[1],1);
-        await new Promise(r=>setTimeout(r,2500));
-        await type('',1);
-        await type('',0);
-        await new Promise(r=>setTimeout(r,500));
-    }
-})();
-</script>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE;" alt="Typing SVG" />
 
 <div align="center">
 
